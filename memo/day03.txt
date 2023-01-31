@@ -1,0 +1,22 @@
+렛풀, 클래스101, 와디즈, 마켓컬리, 크몽, 오늘의 집, 숨고, 다방, 에어비앤비
+
+
+<div>
+	<div> 회원가입 제목</div>
+	<div> 여백 </div>
+	<div>
+		<div>아이디</div>
+		<div>비밀번호</div>
+		<div>비밀번호 확인</div>
+		<div>이름</div>
+		<div>이메일</div>
+		<div>휴대폰</div>
+		<div>주소</div>
+		<div>성별</div>
+		<div>생년월일</div>
+		<div>추가입력사항</div>
+		<div>여백</div>
+	</div>
+	<div>이용약관동의</div>
+	<div>가입버튼</div>
+</div>
